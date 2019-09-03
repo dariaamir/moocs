@@ -15,6 +15,7 @@
 | Course | Institution | Certificate |
 | --- | --- | --- |
 |Java. Basics [rus]|Stepic|[Link](https://stepik.org/cert/163153)|
+|Java Developer [in progress]| JetBrains Academy|[Link to profile](https://hyperskill.org/profile/92085)|
 
 
 ## Operating Systems
