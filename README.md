@@ -18,6 +18,13 @@
 |Java Developer [in progress]| JetBrains Academy|[Link to profile](https://hyperskill.org/profile/92085)|
 
 
+## Frameworks
+
+| Course | Institution | Certificate |
+| --- | --- | --- |
+|Robot Framework|Test Automation Univercity|[Link to the course](https://testautomationu.applitools.com/)|
+
+
 ## Operating Systems
 
 | Course | Institution | Certificate |
