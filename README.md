@@ -1,3 +1,13 @@
+## Quality Assurance
+
+| Course | Institution | Certificate |
+| --- | --- | --- |
+|Setting a Foundation for Successful Test Automation
+|Test Automation University|[Link](https://testautomationu.applitools.com/certificate/?id=ae0b90ac)|
+|The Whole Team Approach to Continuous Testing
+|Test Automation University|[Link](https://testautomationu.applitools.com/certificate/?id=bc423680)]
+
+
 ## Programing langiages
 
 ### Python
@@ -15,14 +25,12 @@
 | Course | Institution | Certificate |
 | --- | --- | --- |
 |Java. Basics [rus]|Stepic|[Link](https://stepik.org/cert/163153)|
-|Java Developer [in progress]| JetBrains Academy|[Link to profile](https://hyperskill.org/profile/92085)|
-
 
 ## Frameworks
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
-|Robot Framework|Test Automation Univercity|[Link to the course](https://testautomationu.applitools.com/)|
+|Robot Framework|Test Automation University|[Link to the course](https://testautomationu.applitools.com/)|
 
 
 ## Operating Systems
