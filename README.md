@@ -2,8 +2,8 @@
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
-|Setting a Foundation for Successful Test Automation|Test Automation University|[Link](https://testautomationu.applitools.com/certificate/?id=ae0b90ac)|
-|The Whole Team Approach to Continuous Testing|Test Automation University|[Link](https://testautomationu.applitools.com/certificate/?id=bc423680)]
+|Setting a Foundation for Successful Test Automation|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=ae0b90ac)|
+|The Whole Team Approach to Continuous Testing|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=bc423680)|
 
 
 ## Programing langiages
@@ -12,11 +12,11 @@
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
-| Programming for Everybody (Getting Started with Python) |  Coursera | [Link](https://www.coursera.org/account/accomplishments/certificate/3LHRGZ2B4Z5B) |
-| Python Data Structures |  Coursera | [Link](https://www.coursera.org/account/accomplishments/certificate/RJP79U54W4NY) |
-| Using Python to Access Web Data |  Coursera | [Link](https://www.coursera.org/account/accomplishments/certificate/2DA9NQLTXQWN) |
-|Python: fundamentals and applications [rus]|Stepic|[Link](https://stepik.org/cert/35420)|
-|Programing on Python [rus]|Stepic|[Link](https://stepik.org/cert/25845)|
+| Programming for Everybody (Getting Started with Python) |  Coursera | [Certificate](https://www.coursera.org/account/accomplishments/certificate/3LHRGZ2B4Z5B) |
+| Python Data Structures |  Coursera | [Certificate](https://www.coursera.org/account/accomplishments/certificate/RJP79U54W4NY) |
+| Using Python to Access Web Data |  Coursera | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2DA9NQLTXQWN) |
+|Python: fundamentals and applications [rus]|Stepic|[Certificate](https://stepik.org/cert/35420)|
+|Programing on Python [rus]|Stepic|[Certificate](https://stepik.org/cert/25845)|
 
 ### Java
 
@@ -35,14 +35,14 @@
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
-|Introduction to Linux [rus]|Stepic|[Link](https://stepik.org/cert/48194)|
+|Introduction to Linux [rus]|Stepic|[Certificate](https://stepik.org/cert/48194)|
 
 
 ## Databases
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
-|M001: MongoDB Basics| MongoDB University |[Link](http://university.mongodb.com/course_completion/af0fe8b5-c429-4e5b-903a-baa0bff1)|
+|M001: MongoDB Basics| MongoDB University |[Certificate](http://university.mongodb.com/course_completion/af0fe8b5-c429-4e5b-903a-baa0bff1)|
 
 
 ## Other
@@ -50,4 +50,4 @@
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
-|Basics of Git [rus]|Stepic|[Link](https://stepik.org/cert/110020)|
+|Basics of Git [rus]|Stepic|[Certificate](https://stepik.org/cert/110020)|
