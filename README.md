@@ -2,10 +2,8 @@
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
-|Setting a Foundation for Successful Test Automation
-|Test Automation University|[Link](https://testautomationu.applitools.com/certificate/?id=ae0b90ac)|
-|The Whole Team Approach to Continuous Testing
-|Test Automation University|[Link](https://testautomationu.applitools.com/certificate/?id=bc423680)]
+|Setting a Foundation for Successful Test Automation|Test Automation University|[Link](https://testautomationu.applitools.com/certificate/?id=ae0b90ac)|
+|The Whole Team Approach to Continuous Testing|Test Automation University|[Link](https://testautomationu.applitools.com/certificate/?id=bc423680)]
 
 
 ## Programing langiages
