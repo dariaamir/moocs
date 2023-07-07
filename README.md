@@ -29,6 +29,7 @@
 | Course | Institution | Certificate |
 | --- | --- | --- |
 |Robot Framework|Test Automation University|[Link to the course](https://testautomationu.applitools.com/)|
+| Test Automation using Selemium and Python [rus] | Stepik | [Certificate](https://stepik.org/cert/2121817) |
 
 
 ## Operating Systems
