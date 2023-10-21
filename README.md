@@ -5,16 +5,15 @@
 |Setting a Foundation for Successful Test Automation|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=ae0b90ac)|
 |The Whole Team Approach to Continuous Testing|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=bc423680)|
 
-
 ## Programing langiages
 
 ### Python
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
-| Programming for Everybody (Getting Started with Python) |  Coursera | [Certificate](https://www.coursera.org/account/accomplishments/certificate/3LHRGZ2B4Z5B) |
-| Python Data Structures |  Coursera | [Certificate](https://www.coursera.org/account/accomplishments/certificate/RJP79U54W4NY) |
-| Using Python to Access Web Data |  Coursera | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2DA9NQLTXQWN) |
+| Programming for Everybody (Getting Started with Python) | University of Michigan | [Certificate](https://www.coursera.org/account/accomplishments/certificate/3LHRGZ2B4Z5B) |
+| Python Data Structures |  University of Michigan | [Certificate](https://www.coursera.org/account/accomplishments/certificate/RJP79U54W4NY) |
+| Using Python to Access Web Data |  University of Michigan | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2DA9NQLTXQWN) |
 |Python: fundamentals and applications [rus]|Stepic|[Certificate](https://stepik.org/cert/35420)|
 |Programing on Python [rus]|Stepic|[Certificate](https://stepik.org/cert/25845)|
 
@@ -24,12 +23,21 @@
 | --- | --- | --- |
 |Java. Basics [rus]|Stepic|[Link](https://stepik.org/cert/163153)|
 
-## Frameworks
+## Testing Frameworks
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
 |Robot Framework|Test Automation University|[Link to the course](https://testautomationu.applitools.com/)|
-| Test Automation using Selemium and Python [rus] | Stepik | [Certificate](https://stepik.org/cert/2121817) |
+|Test Automation using Selemium and Python [rus] | Stepik | [Certificate](https://stepik.org/cert/2121817) |
+
+
+## Infrastructure and DevOps
+
+| Course | Institution | Certificate |
+| --- | --- | --- |
+|Docker for absolute beginners|IBM|[Certificate](https://coursera.org/share/427041750cd6fa838c75fa542f880506)|
+|Introduction to Cloud Computing|IBM|[Certificate](https://coursera.org/share/c4fb86665b6053db4f1d43c4fb1bf606)|
+|Introduction to DevOps|IBM|[Certificate](https://coursera.org/share/d4bfe0b9b21ba445553c12344ab43de7)|
 
 
 ## Operating Systems
@@ -45,6 +53,12 @@
 | --- | --- | --- |
 |M001: MongoDB Basics| MongoDB University |[Certificate](http://university.mongodb.com/course_completion/af0fe8b5-c429-4e5b-903a-baa0bff1)|
 
+
+## Data Analytics
+
+| Course | Institution | Certificate |
+| --- | --- | --- |
+|Foundations: Data, Data, Everywhere|Google|[Certificate](https://coursera.org/share/eeb6955e35151072a5c111d06510d4d5)|
 
 ## Other
 
