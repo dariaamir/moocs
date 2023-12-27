@@ -21,13 +21,13 @@
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
-|Java. Basics [rus]|Stepic|[Link](https://stepik.org/cert/163153)|
+|Java. Basics [rus]|Stepic|[Certificate](https://stepik.org/cert/163153)|
 
 ## Testing Frameworks
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
-|Robot Framework|Test Automation University|[Link to the course](https://testautomationu.applitools.com/)|
+|Robot Framework|Test Automation University|[Certificate]([https://testautomationu.applitools.com/](https://testautomationu.applitools.com/certificate/?id=053f992b))|
 |Test Automation using Selemium and Python [rus] | Stepik | [Certificate](https://stepik.org/cert/2121817) |
 
 
