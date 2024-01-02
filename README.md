@@ -4,6 +4,8 @@
 | --- | --- | --- |
 |Setting a Foundation for Successful Test Automation|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=ae0b90ac)|
 |The Whole Team Approach to Continuous Testing|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=bc423680)|
+|Introduction to DevOps|IBM|[Certificate](https://coursera.org/share/d4bfe0b9b21ba445553c12344ab43de7)|
+|Test Automation in DevOps|Test Automation University|[Certificate]((https://testautomationu.applitools.com/certificate/?id=6ba5c851))|
 
 ## Programing langiages
 
