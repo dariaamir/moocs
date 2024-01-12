@@ -68,3 +68,5 @@
 | Course | Institution | Certificate |
 | --- | --- | --- |
 |Basics of Git [rus]|Stepic|[Certificate](https://stepik.org/cert/110020)|
+|Introduction to Agile Development and Scrum|IBM|[Certificate](https://coursera.org/share/d1c31decb9bebe537fcb6553e4f527d5)|
+
