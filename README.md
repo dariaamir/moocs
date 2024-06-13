@@ -4,8 +4,7 @@
 | --- | --- | --- |
 |Setting a Foundation for Successful Test Automation|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=ae0b90ac)|
 |The Whole Team Approach to Continuous Testing|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=bc423680)|
-|Introduction to DevOps|IBM|[Certificate](https://coursera.org/share/d4bfe0b9b21ba445553c12344ab43de7)|
-|Test Automation in DevOps|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=6ba5c851)|
+|Introduction to Observability for Test Automation|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=460e669d)|
 
 ## Programing langiages
 
@@ -32,7 +31,6 @@
 |Robot Framework|Test Automation University|[Certificate]([https://testautomationu.applitools.com/](https://testautomationu.applitools.com/certificate/?id=053f992b))|
 |Test Automation using Selemium and Python [rus] | Stepik | [Certificate](https://stepik.org/cert/2121817) |
 
-
 ## Infrastructure and DevOps
 
 | Course | Institution | Certificate |
@@ -40,7 +38,9 @@
 |Docker for absolute beginners|IBM|[Certificate](https://coursera.org/share/427041750cd6fa838c75fa542f880506)|
 |Introduction to Cloud Computing|IBM|[Certificate](https://coursera.org/share/c4fb86665b6053db4f1d43c4fb1bf606)|
 |Introduction to DevOps|IBM|[Certificate](https://coursera.org/share/d4bfe0b9b21ba445553c12344ab43de7)|
-
+|Test Automation in DevOps|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=6ba5c851)|
+|GitHub Actions for Testing|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=4ef2bd42)|
+|AWS Cloud Practitioner Essentials|AWS|[Certificate](https://github.com/dariaamir/moocs/blob/2001fe75116f17f17348b4d037b9d5904e718148/134_3_5361543_1717133743_AWS%20Course%20Completion%20Certificate.pdf)|
 
 ## Operating Systems
 
@@ -48,13 +48,11 @@
 | --- | --- | --- |
 |Introduction to Linux [rus]|Stepic|[Certificate](https://stepik.org/cert/48194)|
 
-
 ## Databases
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
 |M001: MongoDB Basics| MongoDB University |[Certificate](http://university.mongodb.com/course_completion/af0fe8b5-c429-4e5b-903a-baa0bff1)|
-
 
 ## Data Analytics
 
@@ -63,7 +61,6 @@
 |Foundations: Data, Data, Everywhere|Google|[Certificate](https://coursera.org/share/eeb6955e35151072a5c111d06510d4d5)|
 
 ## Other
-
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
