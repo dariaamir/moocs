@@ -12,9 +12,9 @@
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
-| Programming for Everybody (Getting Started with Python) | University of Michigan | [Certificate](https://www.coursera.org/account/accomplishments/certificate/3LHRGZ2B4Z5B) |
-| Python Data Structures |  University of Michigan | [Certificate](https://www.coursera.org/account/accomplishments/certificate/RJP79U54W4NY) |
-| Using Python to Access Web Data |  University of Michigan | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2DA9NQLTXQWN) |
+|Programming for Everybody (Getting Started with Python) | University of Michigan | [Certificate](https://www.coursera.org/account/accomplishments/certificate/3LHRGZ2B4Z5B) |
+|Python Data Structures |  University of Michigan | [Certificate](https://www.coursera.org/account/accomplishments/certificate/RJP79U54W4NY) |
+|Using Python to Access Web Data |  University of Michigan | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2DA9NQLTXQWN) |
 |Python: fundamentals and applications [rus]|Stepic|[Certificate](https://stepik.org/cert/35420)|
 |Programing on Python [rus]|Stepic|[Certificate](https://stepik.org/cert/25845)|
 
@@ -47,6 +47,7 @@
 | Course | Institution | Certificate |
 | --- | --- | --- |
 |Introduction to Linux [rus]|Stepic|[Certificate](https://stepik.org/cert/48194)|
+|Linux Bash Shell Scripting: Complete Guide (incl. AWK & SED)|Udemy|[Certificate](https://www.udemy.com/certificate/UC-c206d5f1-7c60-45c8-8c40-07399e997ef6/)|
 
 ## Databases
 
