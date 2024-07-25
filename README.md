@@ -24,12 +24,19 @@
 | --- | --- | --- |
 |Java. Basics [rus]|Stepic|[Certificate](https://stepik.org/cert/163153)|
 
+### Bash
+
+| Course | Institution | Certificate |
+| --- | --- | --- |
+|Linux Bash Shell Scripting: Complete Guide (incl. AWK & SED)|Udemy|[Certificate](https://www.udemy.com/certificate/UC-c206d5f1-7c60-45c8-8c40-07399e997ef6/)|
+
 ## Testing Frameworks
 
 | Course | Institution | Certificate |
 | --- | --- | --- |
 |Robot Framework|Test Automation University|[Certificate]([https://testautomationu.applitools.com/](https://testautomationu.applitools.com/certificate/?id=053f992b))|
 |Test Automation using Selemium and Python [rus] | Stepik | [Certificate](https://stepik.org/cert/2121817) |
+|Test Automation using Selemium and Python [rus] | Test Automation University | [Certificate](https://stepik.org/cert/2121817) |
 
 ## Infrastructure and DevOps
 
@@ -47,7 +54,6 @@
 | Course | Institution | Certificate |
 | --- | --- | --- |
 |Introduction to Linux [rus]|Stepic|[Certificate](https://stepik.org/cert/48194)|
-|Linux Bash Shell Scripting: Complete Guide (incl. AWK & SED)|Udemy|[Certificate](https://www.udemy.com/certificate/UC-c206d5f1-7c60-45c8-8c40-07399e997ef6/)|
 
 ## Databases
 
