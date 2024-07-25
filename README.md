@@ -6,7 +6,7 @@
 |The Whole Team Approach to Continuous Testing|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=bc423680)|
 |Introduction to Observability for Test Automation|Test Automation University|[Certificate](https://testautomationu.applitools.com/certificate/?id=460e669d)|
 
-## Programing langiages
+## Programing languages
 
 ### Python
 
