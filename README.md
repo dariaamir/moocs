@@ -36,7 +36,6 @@
 | --- | --- | --- |
 |Robot Framework|Test Automation University|[Certificate]([https://testautomationu.applitools.com/](https://testautomationu.applitools.com/certificate/?id=053f992b))|
 |Test Automation using Selemium and Python [rus] | Stepik | [Certificate](https://stepik.org/cert/2121817) |
-|Test Automation using Selemium and Python [rus] | Test Automation University | [Certificate](https://stepik.org/cert/2121817) |
 
 ## Infrastructure and DevOps
 
